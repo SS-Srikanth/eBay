@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46560" started-at="2019-07-28T02:22:17Z" finished-at="2019-07-28T02:23:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46560" started-at="2019-07-28T02:22:17Z" finished-at="2019-07-28T02:23:03Z">
+      <class name="mobile.ebay.basetest.DataVerification_Test">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:mobile.ebay.basetest.DataVerification_Test@4f7d0008]" name="beforeMethod" is-config="true" duration-ms="29710" started-at="2019-07-28T02:22:17Z" finished-at="2019-07-28T02:22:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="dataVerification_ProductAndCheckoutScreen()[pri:0, instance:mobile.ebay.basetest.DataVerification_Test@4f7d0008]" name="dataVerification_ProductAndCheckoutScreen" duration-ms="16764" started-at="2019-07-28T02:22:47Z" finished-at="2019-07-28T02:23:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataVerification_ProductAndCheckoutScreen -->
+      </class> <!-- mobile.ebay.basetest.DataVerification_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
